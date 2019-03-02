@@ -1,6 +1,6 @@
 # Windows 7
 
-A native-ish theme for [Vivaldi](https://vivaldi.com) using some of the default system color values.
+A native-ish theme for [Vivaldi](https://vivaldi.com) using some of the default system colors.
 
 ![Screenshot](screenshot.png)
 
