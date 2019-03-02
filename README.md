@@ -1,6 +1,6 @@
 # Windows 7
 
-A native-ish theme for [Vivaldi](https://vivaldi.com)
+A native-ish theme for [Vivaldi](https://vivaldi.com) using some of the default system color values.
 
 ![Screenshot](screenshot.png)
 
@@ -18,3 +18,5 @@ A native-ish theme for [Vivaldi](https://vivaldi.com)
 * Corner Roudning: `3px`
 
 You can download this theme in [JSON](windows-7.json), which is compatible with [luetage](https://github.com/luetage)'s [import/export mod](https://forum.vivaldi.net/topic/33154/import-and-export-themes).
+
+The screenshot uses the default Windows 7 wallpaper called "Harmony".
