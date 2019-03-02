@@ -7,10 +7,10 @@ A native-ish theme for [Vivaldi](https://vivaldi.com) using some of the default 
 ## Theme settings
 
 * Colors
-  * Background: `#d7e4f2`
+  * Background: `#d7e4f2` (Inactive title bar #2)
   * Foreground: `#000000`
-  * Highlight: `#3399ff`
-  * Accent: `#99b4d1`
+  * Highlight: `#3399ff` (Selection)
+  * Accent: `#99b4d1` (Active title bar #1)
 * Preferences
   * Accent Color from Active Page: `[ ]`
   * Apply Accent Color to Windows: `[✓]`
